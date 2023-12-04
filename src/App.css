@@ -1,0 +1,94 @@
+/* Resetting global styles with page background image */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: url('/Users/aprvital/Desktop/412Project/backend/frontend/src/1252003676.png') center/cover; 
+  font-family: 'Arial', sans-serif;
+}
+
+/* Flex container for body */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.App {
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 12px 20px rgb(255, 255, 255);
+  border-radius: 12px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: auto;
+  max-height: 80vh;
+  opacity: 0.975;
+  transform: translateZ(0); 
+}
+
+/* Responsive logo styling */
+.App-logo {
+  width: 80%;
+  max-width: 200px;
+  margin-bottom: 20px;
+}
+
+/* Improved form styling */
+form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Responsive input and button styling */
+input[type="text"],
+input[type="number"],
+button {
+  width: 100%;
+  max-width: 400px;
+  padding: 14px;
+  margin: 10px 0;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #17408B;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #C9082A;
+}
+
+/* Responsive player details styling */
+div {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Horizontal rule styling */
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+/* Improved paragraph styling with "Roboto" font */
+p {
+  color: #555;
+  margin-bottom: 10px;
+  line-height: 1.4;
+  font-family: 'Roboto', sans-serif;
+}
