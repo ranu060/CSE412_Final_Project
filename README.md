@@ -11,11 +11,9 @@ Link to GitHub repository:
 
 ## Instruction for the Application
 
-**Warning:**
-
-Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
-
-[Download Node.js](https://nodejs.org/en/download/)
+> [!WARNING]  
+> Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
+> [Download Node.js](https://nodejs.org/en/download/)
 
 
 
