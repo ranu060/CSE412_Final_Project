@@ -6,7 +6,7 @@
 Link to YouTube Video:https://www.youtube.com/watch?v=J9ynisDtc5I
 
 
-Link to GitHub repository: 
+Link to GitHub repository: https://github.com/ranu060/CSE412_Final_Project
 
 
 ## Instruction for the Application
