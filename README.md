@@ -19,15 +19,16 @@ Link to GitHub repository:
 
 ## The user will be presented with an initial screen
 
- POST SC
+![Homepage](https://github.com/ranu060/CSE412_Final_Project/assets/105173932/da04070e-427f-4730-ad6b-0d3fce2765ea)
+
 
 ## Use the Text box and Dropdown for the fields
 
-Post SC
+![Traverse](https://github.com/ranu060/CSE412_Final_Project/assets/105173932/fa89c645-bdbc-4449-92f9-5b140ea96dbf)
 
 ## This is an example Query
 
-Post SC
+![example](https://github.com/ranu060/CSE412_Final_Project/assets/105173932/da00b5f5-4eca-4176-8a49-0b969d04e6c6)
 
 
 
