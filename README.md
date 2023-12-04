@@ -25,11 +25,7 @@ Link to GitHub repository:
 > [!IMPORTANT]  
 > Make sure to insert the following command to your terminal for the project:
 >  npx create-react-app frontend,
-
-
 >  cd frontend,
-
-
 >  npm install axios,
 
 
