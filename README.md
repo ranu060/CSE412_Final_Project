@@ -14,10 +14,13 @@ Link to GitHub repository:
 > [!WARNING]  
 > Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
 > [Download Node.js](https://nodejs.org/en/download/)
+> [!WARNING]  
+> Make sure you have [PostgreSQL](https://www.postgresql.org/download/) installed.
+
 
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Check the path to run the application.
 
 ![Cd](https://github.com/ranu060/CSE412_Final_Project/assets/105173932/c59182cc-57f3-4247-8112-a42e54e07e39)
 
