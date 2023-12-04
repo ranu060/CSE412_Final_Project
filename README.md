@@ -21,10 +21,6 @@ Link to GitHub repository:
 
  POST SC
 
-## Traverse through the Query Page
-
-Post SC
-
 ## Use the Text box and Dropdown for the fields
 
 Post SC
