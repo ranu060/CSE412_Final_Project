@@ -13,7 +13,6 @@ Link to GitHub repository:
 
 > [!WARNING]  
 > Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
-> [Download Node.js](https://nodejs.org/en/download/)
 > [!WARNING]  
 > Make sure you have [PostgreSQL](https://www.postgresql.org/download/) installed.
 
