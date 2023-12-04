@@ -1,7 +1,7 @@
 # CSE412_Final_Project
 
 
-### by Rishab Anumula, Raghav, Subash, Rohit Konatam
+### by Rishab Anumula, Raghav Sunderasan, Subash L, Rohit Konatam
 
 Link to Youtube Video:
 
