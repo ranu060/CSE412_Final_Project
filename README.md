@@ -9,6 +9,13 @@ Link to YouTube Video:https://www.youtube.com/watch?v=J9ynisDtc5I
 Link to GitHub repository: 
 
 
+## Instruction for the Application
+
+**Warning:**
+
+Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
+
+[Download Node.js](https://nodejs.org/en/download/)
 
 
 
